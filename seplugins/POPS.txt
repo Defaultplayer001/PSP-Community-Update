@@ -1,0 +1,2 @@
+ms0:/seplugins/popsloader/popsloader.prx 1
+ms0:/seplugins/popsloader/cdda_enabler.prx 1

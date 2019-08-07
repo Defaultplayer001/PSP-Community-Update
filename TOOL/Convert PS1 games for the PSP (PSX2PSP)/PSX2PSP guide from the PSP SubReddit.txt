@@ -1,0 +1,29 @@
+
+
+Convert PSX Games to PSP Format
+PSP has native support for most PSX titles so if you want to convert your original PSX disc to play on the PSP it's a very simple process using PSX2PSP. Playing these converted titles requires custom firmware and depending on your firmware version you may need popsloader enabled (legacy firmwares).
+
+Required Program
+PSX2PSP
+Guide
+1. You first need to copy the contents of your PSX disc to your computer in .Bin/.Cue or .ISO format. If you are not sure how to backup/rip games to digital format you can follow this video. Note that you only need to follow that video up to 4:20. The rest is burning it to a blank CD.
+
+2. Once you have your backup game in .Bin/.Cue or .ISO format you can open PSX2PSP. The main window will show a preview of what you will see on your PSP when you select your game.
+Convert menu: Options to add PSX discs and modify how the game is seen on your PSP.
+Customize PBP: Options to customize how your game icon, background, music, etc when viewing the game in the XMB.
+Options...: For advanced users to change things like compression levels, extraction settings, default icons, and themes.
+
+3. Open the Convert menu and click the first drop down box. Select ISO/PBP File 1 and then choose the location of your backup PSX game. The rest of the text fields should populate with information about the game selected. Then choose an output location on the next line, this is where your eboot.pbp will be stored after the conversion.
+
+4. If you want to make the game look nice on your PSP you can open Customize PBP and add custom images. If you want custom music when hovering over the game you can follow this guide.
+
+5. Once finished customizing text and images you can click Convert in the Convert menu. Once the process is complete, you will have a folder named after the game title ID (eg. SLUS0001) and inside is the eboot.PBP. Move both the folder and the containing eboot onto your PSP memory card GAME folder. Disconnect from USB Mode and you will see your game listed and playable.
+
+Notes
+It is preferred to have the Game title and Save title the exact same, and not to make them too long or use foreign characters.
+
+To make it easier to manage, you can open PSX2PSP options, go to the folders tab, and choose Auto create folder on convert: Create game title folder. This will get rid of the annoying title ID so you can know which games are which. Folders in GAME on your PSP do not need to be named a certain way for these.
+
+As noted previously, most games will work but there are a handful of PSX titles that just can't be played on the PSP. A good way to check is if the game has ever been on the PSN Store with PSP compatibility, it will work. Some titles have been removed due to licensing though.
+
+PSX2PSP also allows you to convert an eboot back into an image or bin/cue format. Select the eboot and an output folder path and select Extract ISO.
