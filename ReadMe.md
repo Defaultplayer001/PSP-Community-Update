@@ -34,14 +34,13 @@ http://www.mediafire.com/file/y0yzmy1iu3av541/release_661lme2.3.zip/file
 
 If you want easy / safe but "temporary" CFW, this guide should help! (Again, at your own risk! Do your own research and ask around before trusting any single source with your hardware and software!)
 
+------
+
 Instructions
 
 1. Copy contents over to the root of your memory stick. 
-	
-	(For 32MB Memory Stick users)
-	1. If you only have a 32mb memory stick and are already on 	6.61, you may also delete the Update folder from PSP\GAME\, 	then copy over just the PSP folder to your memory stick. You 	won't have Popsloader though, not that there is really space 	for any PS1 games.)
 
-2. Update to 6.61 if you haven't already. Go to Games\Memory Stick\Update to 6.61 and launch! 
+2. Insert memory stick, update to 6.61 if you haven't already. Go to Games\Memory Stick\Update to 6.61 and launch! 
 
 3. Go to Games\Memory Stick\LME Installer and launch! Follow the prompt and install. 
 
