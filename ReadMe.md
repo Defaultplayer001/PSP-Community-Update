@@ -2,38 +2,6 @@ For all PSP models! (Personally tested on 1k, 2k, and 3k models.)
 
 Do at your own risk! 
 
-A more mature and model specific, if obtuse and unnecessarily complex guide in need of updating is available here. https://hackinformer.com/PlayStationGuide/PSP/DEVICE_PSP.html 
-
-If you want *permanent* CFW I'd recommend using that! 
-
-This guide and package is an extrapolation of it's 6.61 LME 3k 03g instructions. 
-https://hackinformer.com/PlayStationGuide/PSP/RESULT_PSP3000_03g_OFW.html
-
-Preserved below for posterity and for users wanting just the minimum / simplest, or for 32mb Memory Stick users. (Hyperlinks pasted into plain text)
-
-
-
-1) Download and install the latest Official Firmware 6.61 (Go! Version) if you haven't already
-
-6.61 FW: http://du01.psp.update.playstation.org/update/psp/image/us/2014_1212_6be8878f475ac5b1a499b95ab2f7d301/EBOOT.PBP
-
-Go! Version:
-http://du01.psp.update.playstation.org/update/psp/image2/us/2014_1212_fd0f7d0798b4f6e6d32ef95836740527/EBOOT.PBP
-
-
-
-2) Download the 6.61 LME-2.3 Custom Firmware and extract the ZIP-Archive
-
-http://www.mediafire.com/file/y0yzmy1iu3av541/release_661lme2.3.zip/file
-
-3) Copy the "installer" and "launcher" folder to your "PSP/GAME/" directory
-
-4) Launch the "LME Installer for 661" from the XMB and install the CFW
-
-5) To activate your CFW run the "LME Launcher for 661" from the XMB
-
-If you want easy / safe but "temporary" CFW, this guide should help! (Again, at your own risk! Do your own research and ask around before trusting any single source with your hardware and software!)
-
 ------
 
 Instructions
@@ -86,4 +54,39 @@ Modding Tool (release_661lme2.3, Used to install CFW)
 PS1 Compatibility Tool (Popsloader_v4i, Let's you select Emulator Version)
 PSP Stuck Pixel Fixer (Actually under VIDEO, just a video. Run on repeat for an extended period of time)
 
-To do: Include a bare-minimum guide based on that other guide. Also recommend that for 32mb users. b
+A more mature and model specific, if obtuse and unnecessarily complex guide in need of updating is available here. https://hackinformer.com/PlayStationGuide/PSP/DEVICE_PSP.html 
+
+If you want *permanent* CFW I'd recommend using that! 
+
+This guide and package is an extrapolation of it's 6.61 LME 3k 03g instructions. 
+https://hackinformer.com/PlayStationGuide/PSP/RESULT_PSP3000_03g_OFW.html
+
+Preserved below for posterity and for users wanting just the minimum / simplest, or for 32mb Memory Stick users. (Hyperlinks pasted into plain text)
+
+
+
+1) Download and install the latest Official Firmware 6.61 (Go! Version) if you haven't already
+
+6.61 FW: http://du01.psp.update.playstation.org/update/psp/image/us/2014_1212_6be8878f475ac5b1a499b95ab2f7d301/EBOOT.PBP
+
+Go! Version:
+http://du01.psp.update.playstation.org/update/psp/image2/us/2014_1212_fd0f7d0798b4f6e6d32ef95836740527/EBOOT.PBP
+
+
+
+2) Download the 6.61 LME-2.3 Custom Firmware and extract the ZIP-Archive
+
+http://www.mediafire.com/file/y0yzmy1iu3av541/release_661lme2.3.zip/file
+
+3) Copy the "installer" and "launcher" folder to your "PSP/GAME/" directory
+
+4) Launch the "LME Installer for 661" from the XMB and install the CFW
+
+5) To activate your CFW run the "LME Launcher for 661" from the XMB
+
+If you want easy / safe but "temporary" CFW, this guide should help! (Again, at your own risk! Do your own research and ask around before trusting any single source with your hardware and software!)
+
+
+To do:
+
+Include a bare-minimum guide based on that other guide. Also recommend that for 32mb users. Done!
