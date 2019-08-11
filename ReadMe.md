@@ -46,13 +46,22 @@ A few useful tools are included under the TOOL folder.
 Tools:
 -
 6.61 Update (Latest Official Update)
+
 PSP Video Converter (Custom HQ PSP video converter script)
+
 Digimon World Re-Digitize English Translation Patch (Use "Dub" setting for running on actual hardware, otherwise it crashes after inputting a name. Included for archival reasons, relatively hard to track down)
+
 Full PSX1 Boot Plugin
+
 ISO Compression Tool (PSP ISO Compressor 1.4, Saves space at performance cost) 
+
 Modding Tool (release_661lme2.3, Used to install CFW)
+
 PS1 Compatibility Tool (Popsloader_v4i, Let's you select Emulator Version)
+
 PSP Stuck Pixel Fixer (Actually under VIDEO, just a video. Run on repeat for an extended period of time)
+
+-----
 
 A more mature and model specific, if obtuse and unnecessarily complex guide in need of updating is available here. https://hackinformer.com/PlayStationGuide/PSP/DEVICE_PSP.html 
 
