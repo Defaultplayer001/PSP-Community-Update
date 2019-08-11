@@ -2,18 +2,22 @@ For all PSP models! (Personally tested on 1k, 2k, and 3k models.)
 
 Do at your own risk! 
 
+Requires: Memory stick with 118mb free space. (32mb card users see instructions at bottom.)
+
+CFW = Custom Firmware. Modified software for the PSP that adds features.
+
 ------
 
 Instructions
 
-1. Copy contents over to the root of your memory stick. 
+1. Copy "PSP" and "seplugins" over to the root of your memory stick.
 
 2. Insert memory stick, update to 6.61 if you haven't already. Go to Games\Memory Stick\Update to 6.61 and launch! 
 
 3. Go to Games\Memory Stick\LME Installer and launch! Follow the prompt and install. 
 
 After it reboots, just go into your games and run the silver "Launch LME" Icon to go into CFW! 
-You may also delete the 6.61 update and LME Installer. (Press triangle to access the option)
+You may also delete the 6.61 update and LME Installer. (Press triangle to access the option.)
 
 If your PSP ever completely shuts off, you will have to launch again to activate your CFW. 
 
@@ -94,6 +98,11 @@ http://www.mediafire.com/file/y0yzmy1iu3av541/release_661lme2.3.zip/file
 5) To activate your CFW run the "LME Launcher for 661" from the XMB
 
 If you want easy / safe but "temporary" CFW, this guide should help! (Again, at your own risk! Do your own research and ask around before trusting any single source with your hardware and software!)
+
+Alternative install method for 32mb users: 
+
+	1. If you only have a 32mb memory stick and are already on 	6.61, you may also delete the Update folder from PSP\GAME\, 	then copy over just the PSP folder to your memory stick. You 	won't have Popsloader though, not that you really have space 	for any PS1 games.)
+
 
 
 To do:
