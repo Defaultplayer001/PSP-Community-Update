@@ -2,7 +2,7 @@ For all PSP models! (Personally tested on 1k, 2k, and 3k models.)
 
 Do at your own risk! 
 
-Requires: Memory stick with 118mb free space. (32mb card users see instructions at bottom.)
+Requires: Memory Stick with 118mb free space. (32mb card users see instructions at bottom.) I personally recommend using an SD to MS adapter. 
 
 CFW = Custom Firmware. Modified software for the PSP that adds features.
 
@@ -12,7 +12,7 @@ Instructions
 
 1. Copy "PSP" and "seplugins" over to the root of your memory stick.
 
-2. Insert memory stick, update to 6.61 if you haven't already. Go to Games\Memory Stick\Update to 6.61 and launch! 
+2. Insert Memory Stick, update to 6.61 if you haven't already. Go to Games\Memory Stick\Update to 6.61 and launch! 
 
 3. Go to Games\Memory Stick\LME Installer and launch! Follow the prompt and install. 
 
@@ -55,8 +55,6 @@ PSP Video Converter (Custom HQ PSP video converter script)
 
 Digimon World Re-Digitize English Translation Patch (Use "Dub" setting for running on actual hardware, otherwise it crashes after inputting a name. Included for archival reasons, relatively hard to track down)
 
-Full PSX1 Boot Plugin
-
 ISO Compression Tool (PSP ISO Compressor 1.4, Saves space at performance cost) 
 
 Modding Tool (release_661lme2.3, Used to install CFW)
@@ -64,6 +62,13 @@ Modding Tool (release_661lme2.3, Used to install CFW)
 PS1 Compatibility Tool (Popsloader_v4i, Let's you select Emulator Version)
 
 PSP Stuck Pixel Fixer (Actually under VIDEO, just a video. Run on repeat for an extended period of time)
+
+-----
+
+Credits:
+-
+
+Add names hers.
 
 -----
 
